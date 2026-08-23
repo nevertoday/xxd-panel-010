@@ -45,11 +45,25 @@ XXD Panel 010 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **一个关系叙事：** 只让一个姿态、动作、距离或互动承担故事，留白保持安静空旷。
 - **童书编辑文字：** 克制印刷小字为主，只加入极少笨拙手写、蜡笔字或不规则字形。
 
-## 样张 · 即将补充
+## 样张 · 来自 X
 
-项目已预留 [`assets/examples/`](assets/examples/) 样张目录。只有经项目作者确认、确实使用 010 完成的作品才会加入；在此之前不借用其他风格的推文或图片作为占位。
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090083230317945129) · 2026-08-19<br>
+> GPT2 x 剪影 x 黑白 x 粗蜡笔 x 美学提示词 x VOL.010
 
-未来样张只用于展示 010 对不同题材的适应力，不会把样张主体、隐喻、配色、文案或画幅变成生成参考或默认值。
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 010 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 010 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 010 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 010 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 010 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 四种输出共享同一种黑白童书逻辑
 

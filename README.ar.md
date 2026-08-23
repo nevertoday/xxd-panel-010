@@ -47,11 +47,25 @@ XXD Panel 010 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **سرد علاقة واحد:** يحمل وضع أو فعل أو مسافة أو تفاعل واحد القصة وسط فراغ واسع وهادئ.
 - **نص تحريري لكتاب أطفال:** حروف مطبوعة صغيرة ومقتصدة مع أثر ضئيل من كتابة يدوية أو شمعية غير ماهرة.
 
-## النماذج · قريباً
+## النماذج · من X
 
-يحتفظ المستودع بمجلد [`assets/examples/`](assets/examples/) للأعمال القادمة. لن يُضاف إلا عمل مكتمل بأسلوب 010 ومؤكد من صاحب المشروع؛ ولن تُستخدم منشورات أو صور من أساليب أخرى كعناصر مؤقتة.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090083230317945129) · 2026-08-19<br>
+> GPT2 x 剪影 x 黑白 x 粗蜡笔 x 美学提示词 x VOL.010
 
-ستعرض النماذج القادمة قدرة 010 على التكيف فقط، ولن تصبح موضوعاتها أو استعاراتها أو ألوانها أو نصوصها أو نسبها مراجع للتوليد أو قيماً افتراضية.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 010 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 010 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 010 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 010 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 010 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## أربعة مخرجات ومنطق واحد لكتاب أطفال بالأبيض والأسود
 

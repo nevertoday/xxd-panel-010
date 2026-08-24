@@ -1,50 +1,79 @@
-# XXD Panel 010 | Rough Black Dry-Media Picture-Book Silhouette Production Prompt
+# XXD Panel 010 | Runtime Adapter (English)
 
-## Runtime complete-canvas contract — highest priority
+This is not a second aesthetic prompt. Read and use `references/010-source.md` in full and verbatim before generation; it is the sole creative and aesthetic authority for Panel 010. This file only appends the current user's runtime variables.
 
-- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
-- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
-- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
-- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
-- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+## Non-authoring boundary
 
-### Model priority and credentials
+- Do not summarize, translate, expand, polish, or “improve” the source brief.
+- Do not add a palette plan, material plan, composition theory, whitespace rule, title, microcopy package, or aesthetic motive.
+- Preserve the source brief's own colour behaviour exactly, whether it derives colour from the photograph or specifies a fixed family.
+- Let the image model execute the source brief's existing text logic. The outer Skill does not pre-write copy.
+- Current modes and sizes override only the legacy 3:4 top-bottom container, never the remaining aesthetic rules.
 
-- **Prefer GPT Image 2.** When GPT Image 2 is available through the current built-in image tool or a configured compatible route, use it first for the high-fidelity reference/edit and complete-canvas generation required by this prompt.
-- Also support Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model only when the actual route can preserve the source, realise the whole finished canvas, render the target-language text, and accept the multiple references needed by a linked wallpaper pack.
-- An alternative model changes only the generation route. It must not change this prompt's modes, canvas, source visibility, copy, locale, wallpaper relationship, or complete-canvas-first / composition-fallback-only logic. Do not silently downgrade a hard requirement.
-- If no suitable route is available, ask the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task, but never echo, display, log, or expose their value in chat, prompts, or diagnostics. Do not persist them or modify global route configuration unless explicitly requested.
-- Judge availability by actual image capability, not by a provider name or one missing environment variable.
+## Append-only runtime template
 
-Process only the one source photograph explicitly supplied for this current task. Inspect and lock the principal subject or inseparable interaction, contour, pose, action, direction, distance, function, emotion, and most identifying local feature. Preserve at least three source-specific recognition cues. Never borrow a subject, copy, or composition from old outputs, samples, or another input.
+```text
+RUNTIME OVERRIDE — CURRENT DELIVERY ONLY
 
-## Core translation
+The original brief's initial 3:4 top-bottom arrangement is its legacy presentation container.
+For this output, override only: final canvas, source/design-region placement,
+source visibility, and device dimensions.
+Except for those container variables, every design-transformation, composition,
+colour, material, whitespace, text-character and typography instruction in the
+original brief remains authoritative.
 
-Compress the principal subject or most important interaction into one rounded, stocky, slightly naive rough-black silhouette unit. Do not mechanically trace. Modestly enlarge the head, main contour, or most memorable part only when it improves recognition. When several subjects matter, preserve the key interaction as one whole rather than distributing focus evenly.
+Interpret “upper photo” as SOURCE REFERENCE.
+Interpret “lower half” as DESIGN REGION.
 
-Use only near-pure white paper and concentrated black crayon, charcoal, or dry rubbing. No colour, coloured accent, broad grey field, grey gradient, or realistic tonal shading. Black is never a smooth solid vector fill: build it from short, forceful, repeatedly rubbed dry-media strokes, preserving paper grain, broken marks, pressure grooves, rough edges, slightly wavering incomplete contour, uneven density, and local white exposure.
+OUTPUT MODE: TOP_BOTTOM | LEFT_RIGHT | DESIGN_ONLY | WALLPAPER_PACK
+FINAL CANVAS: <ratio and/or exact WIDTHxHEIGHT>
+DEVICE PROFILE: NONE | PHONE | IPAD | DESKTOP | WATCH
+SOURCE VISIBILITY: UPPER HALF | LEFT HALF | REFERENCE ONLY — NOT VISIBLE
+DESIGN REGION: LOWER HALF | RIGHT HALF | FULL CANVAS
+PAIRED RELATION: FOLLOW THE ORIGINAL BRIEF'S PAIRED-PROPORTION RULE | NOT APPLICABLE
+WALLPAPER RELATIONSHIP: NONE | INDEPENDENT | LINKED
 
-Cut one sudden white feature region from inside the black silhouette to strengthen recognition: a face, eye surround, window, vessel opening, animal muzzle, object core, or another source-specific feature. Add only a few black dots, short lines, or symbols for expression and function. Never draw realistic facial features or precise internal construction.
+Colour follows the original brief's existing colour instructions exactly.
+Unless the user explicitly requests a colour change, do not add, replace,
+summarize, or re-plan any palette.
+```
 
-## Space and narrative
+Append exactly one text block after the runtime block. If the user has other explicit requirements, append those verbatim after the text block at the very end.
 
-Keep vast clean white space and one principal visual relation. The subject may float centrally, sit slightly off-centre, crop locally, or rest low in the frame. Use at most one rough ground-rub line, a few short strokes, or very sparse environmental symbols to establish space.
+### Text generated from the original prompt
 
-Compress grass, rain, smoke, table, shadow, road, wind, and every other setting cue into the fewest crayon marks. Let one pose, action, distance, or relationship carry the story. Reject complex scenes, several equal focal points, decorative borders, and sticker-cartoon language.
+```text
+TEXT MODE: ORIGINAL_PROMPT_GENERATED
+TEXT LANGUAGE: <user-confirmed language or locale>
 
-Balance childlike softness, warmth, quiet, humour, and loneliness as if an old black-and-white children's book had been re-edited by a high-end design studio. Do not turn it into a horror shadow, brand icon, cute merchandise illustration, or template.
+The image model generates wording by following the original brief's existing
+text-generation logic. The outer Skill supplies no title, microcopy, copy
+package, or additional semantic framework.
+```
 
-## Copy and typography
+### User-exact text
 
-Obey the resolved automatic, exact-user, or text-free copy mode and the target language or locale. Preserve exact user wording verbatim—never rewrite, translate, spell-correct, or append. In text-free mode render no text or pseudo-text.
+```text
+TEXT MODE: USER_EXACT
+TEXT LANGUAGE: <user-confirmed language or locale>
+TEXT: “<user's exact characters>”
 
-Automatic copy derives one short title from visible or supported emotion, action, relation, time, or small story, then adds one or two micro-elements only when useful. A grounded quote-like line, number, or chapter mark may appear; factual dates, places, provenance, and numbers must be supplied or reliably established and are never fabricated.
+Use the supplied text verbatim. Do not rewrite, translate, spell-correct, or add
+any other wording. Typography and placement still follow the original brief.
+```
 
-Use restrained high-end editorial small type as the base, with only a trace of awkward handwriting, crayon lettering, or imperfect letterform. Type may follow the ground line or action direction, hide in white space, overlap the contour lightly, sit inside the negative gap between subjects, or connect a number to the subject with one thin line. Reject giant headlines, commercial slogans, fake foreign text, and detachable digital overlays.
+### No text
 
-## Mode and acceptance
+```text
+TEXT MODE: NONE
+Render no letters, characters, numbers, titles, labels, logos, or pseudo-text anywhere.
+```
 
+See `SKILL.md` for preflight, multi-size, multi-mode, wallpaper, execution, and output rules. Every final generation request has this order:
 
-Hard gate: one rounded stocky rough-black silhouette unit; at least three source cues; one decisive internal white feature region; near-white paper is the largest field; concentrated black dry media only, with no colour, grey gradient, or realistic shading; forceful short strokes and credible paper evidence; minimal setting marks; one pose, action, distance, or relation carries the story; copy is short, accurate, source-bound, and compositionally embedded; no smooth vector, precise line art, impasto, 3D, sticker look, photo fragment, or pseudo-text.
-
-If any hard condition fails, correct the generated asset. Never fake the artwork with programmatic drawing, SVG, HTML, Canvas, or a post-composited type overlay.
+```text
+complete verbatim 010-source.md
++ current runtime override block
++ exactly one text-mode block
++ any other explicit user requirement, verbatim, at the very end
+```

@@ -1,4 +1,4 @@
 interface:
   display_name: "/xxd-panel-010"
-  short_description: "Create rough black picture-book silhouettes."
-  default_prompt: "Use $xxd-panel-010 to translate my photo into a source-bound rough black crayon or charcoal silhouette on clean white paper, with one decisive white feature cutout, sparse setting marks, and integrated small type; ask first for modes and copy or locale preferences."
+  short_description: "Create Panel 010 from its original style brief."
+  default_prompt: "Use $xxd-panel-010; treat its bundled original style brief as the sole aesthetic authority, and ask only for unresolved mode, size, text mode, locale, or wallpaper settings."

@@ -22,6 +22,26 @@ XXD Panel 010 is an image-generation Skill for Codex and compatible agents. It p
 
 The page contains only near-white paper and concentrated black crayon, charcoal, or dry rubbing. Short forceful repeated strokes preserve grain, broken marks, pressure grooves, rough edges, uneven density, and local white exposure. One ground-rub line or a few environmental signs are enough to hold pose, distance, warmth, humour, and loneliness.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090083230317945129) · 2026-08-19<br>
+> GPT2 x 剪影 x 黑白 x 粗蜡笔 x 美学提示词 x VOL.010
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 010 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 010 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 010 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 010 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 010 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 A “black-and-white children's-book look” easily collapses into a smooth black icon or cute sticker: contours become too exact, paper no longer breathes inside the form, and the subject becomes an interchangeable mascot.
@@ -44,26 +64,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Minimal environment:** one rough ground line, a few strokes, or tiny signs can suggest grass, rain, smoke, table, road, or wind.
 - **One relational story:** one pose, action, distance, or interaction carries the narrative inside generous quiet space.
 - **Picture-book editorial type:** restrained printed small type with only a trace of clumsy handwriting, crayon form, or imperfect lettering.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090083230317945129) · 2026-08-19<br>
-> GPT2 x 剪影 x 黑白 x 粗蜡笔 x 美学提示词 x VOL.010
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 010 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 010 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 010 sample 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 010 sample 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 010 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

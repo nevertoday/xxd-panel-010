@@ -24,6 +24,26 @@ XXD Panel 010 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 
 لا تحتوي الصفحة إلا على ورق شبه أبيض وشمع أسود كثيف أو فحم أو فرك جاف. تترك الضربات القصيرة القوية المتكررة حبيبات الورق والانقطاعات وآثار الضغط والحواف الخشنة وتفاوت الكثافة ومواضع بيضاء مكشوفة. يكفي خط أرض خشن واحد أو بضع إشارات بيئية لحمل الوضع والمسافة والدفء والفكاهة والوحدة.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090083230317945129) · 2026-08-19<br>
+> GPT2 x 剪影 x 黑白 x 粗蜡笔 x 美学提示词 x VOL.010
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 010 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 010 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 010 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 010 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 010 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد 010؟
 
 يتحوّل «أسلوب كتاب الأطفال بالأبيض والأسود» بسهولة إلى أيقونة سوداء ناعمة أو ملصق لطيف: يصبح المحيط دقيقاً أكثر من اللازم، ويختفي تنفس الورق داخل الشكل، ويتحول الموضوع إلى تميمة قابلة للاستبدال.
@@ -46,26 +66,6 @@ XXD Panel 010 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **بيئة قليلة:** يلمّح خط أرض واحد وإشارات قليلة إلى العشب والمطر والدخان والطاولة والطريق والريح.
 - **سرد علاقة واحد:** يحمل وضع أو فعل أو مسافة أو تفاعل واحد القصة وسط فراغ واسع وهادئ.
 - **نص تحريري لكتاب أطفال:** حروف مطبوعة صغيرة ومقتصدة مع أثر ضئيل من كتابة يدوية أو شمعية غير ماهرة.
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090083230317945129) · 2026-08-19<br>
-> GPT2 x 剪影 x 黑白 x 粗蜡笔 x 美学提示词 x VOL.010
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 010 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 010 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 010 نموذج 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 010 نموذج 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 010 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 

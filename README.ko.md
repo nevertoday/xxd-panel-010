@@ -22,6 +22,26 @@ XXD Panel 010는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 화면에는 거의 순백의 종이와 짙은 검정 크레용, 목탄 또는 건식 문지름만 있습니다. 짧고 힘센 반복 스트로크가 종이결, 끊긴 자국, 압흔, 거친 가장자리, 불균일한 농도와 국소적인 흰 노출을 남깁니다. 거친 바닥선 하나나 몇 개의 환경 기호만으로 자세, 거리, 온기, 유머와 외로움을 지탱합니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090083230317945129) · 2026-08-19<br>
+> GPT2 x 剪影 x 黑白 x 粗蜡笔 x 美学提示词 x VOL.010
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 010 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 010 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 010 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 010 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 010의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 010이 필요한가요
 
 일반적인 ‘흑백 그림책풍’은 매끈한 검정 아이콘이나 귀여운 스티커로 쉽게 무너집니다. 윤곽이 지나치게 정밀해지고 형태 안에서 종이의 호흡이 사라지며 주제가 교체 가능한 마스코트가 됩니다.
@@ -44,26 +64,6 @@ XXD Panel 010는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **환경은 최소:** 바닥선 하나와 소수 기호로 풀, 비, 연기, 탁자, 길, 바람을 암시합니다.
 - **관계 서사 하나:** 하나의 자세, 동작, 거리 또는 상호작용이 넓고 고요한 여백에서 이야기를 맡습니다.
 - **그림책 편집 문자:** 절제된 인쇄 소문자를 중심으로 아주 조금 서툰 손글씨나 크레용 글자를 섞습니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090083230317945129) · 2026-08-19<br>
-> GPT2 x 剪影 x 黑白 x 粗蜡笔 x 美学提示词 x VOL.010
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 010 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 010 예시 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 010 예시 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 010 예시 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 010의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

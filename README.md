@@ -22,6 +22,26 @@ XXD Panel 010 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 画面只有近乎纯白的纸面与浓黑蜡笔、炭笔或干擦痕迹。短促有力的反复涂抹保留纸粒、断笔、压痕、毛糙边缘、浓淡不均和局部露白；一条地面摩擦线或几枚环境记号就足以承托姿态、距离、温软、幽默与孤独。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090083230317945129) · 2026-08-19<br>
+> GPT2 x 剪影 x 黑白 x 粗蜡笔 x 美学提示词 x VOL.010
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 010 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 010 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 010 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 010 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 010 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 010
 
 普通“黑白童书风”很容易退化成光滑黑图标或可爱贴纸：轮廓过度精确、内部没有纸张呼吸，人物只剩一个可替换的萌系符号。
@@ -44,26 +64,6 @@ XXD Panel 010 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **环境极少：** 一条粗糙地面线、几根短线或少量符号即可提示草、雨、烟、桌面、道路或风。
 - **一个关系叙事：** 只让一个姿态、动作、距离或互动承担故事，留白保持安静空旷。
 - **童书编辑文字：** 克制印刷小字为主，只加入极少笨拙手写、蜡笔字或不规则字形。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090083230317945129) · 2026-08-19<br>
-> GPT2 x 剪影 x 黑白 x 粗蜡笔 x 美学提示词 x VOL.010
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 010 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 010 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 010 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 010 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 010 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

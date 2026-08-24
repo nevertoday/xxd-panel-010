@@ -22,6 +22,26 @@ XXD Panel 010 は、Codex と互換 Agent のための画像生成 Skill です�
 
 画面はほぼ純白の紙と濃い黒のクレヨン、木炭、乾擦だけです。短く力強い重ね塗りに紙目、途切れ、圧痕、毛羽立つ縁、濃度の揺れ、局所的な白を残します。一本の粗い地面線か数個の環境記号だけで、姿勢、距離、温かさ、ユーモア、孤独を支えます。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090083230317945129) · 2026-08-19<br>
+> GPT2 x 剪影 x 黑白 x 粗蜡笔 x 美学提示词 x VOL.010
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 010 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 010 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 010 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 010 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 010 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 010 が必要なのか
 
 一般的な「白黒絵本風」は、滑らかな黒アイコンや可愛いステッカーへ崩れがちです。輪郭が正確すぎ、形の内側から紙の呼吸が消え、主体が交換可能なマスコットになります。
@@ -44,26 +64,6 @@ XXD Panel 010 は、Codex と互換 Agent のための画像生成 Skill です�
 - **環境は最小限：** 一本の地面線と少数の記号で草、雨、煙、机、道、風を示します。
 - **関係の物語は一つ：** 一つの姿勢、動き、距離、相互作用が広い静かな余白で物語を担います。
 - **絵本の編集文字：** 抑制した印刷小文字を中心に、ごく少量の不器用な手書きやクレヨン字を混ぜます。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090083230317945129) · 2026-08-19<br>
-> GPT2 x 剪影 x 黑白 x 粗蜡笔 x 美学提示词 x VOL.010
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 010 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 010 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 010 作例 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 010 作例 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 010 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 

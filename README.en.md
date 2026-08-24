@@ -42,7 +42,18 @@ The page contains only near-white paper and concentrated black crayon, charcoal,
 
 These samples demonstrate the 010 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 010 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Compress a photograph into a rough black dry-media picture-book silhouette on clean white paper |
+| **Recognizable signature** | ROUGH BLACK SILHOUETTE · WHITE FEATURE CUTOUT · DRY-MEDIA PAPER · SPARSE SETTING MARKS · PICTURE-BOOK TYPE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 A “black-and-white children's-book look” easily collapses into a smooth black icon or cute sticker: contours become too exact, paper no longer breathes inside the form, and the subject becomes an interchangeable mascot.
 
@@ -54,7 +65,7 @@ lock source facts → compress into one rounded stocky interaction unit → buil
 
 If an unrelated photograph could replace the source without materially changing the silhouette, internal white feature, pose, interaction, setting marks, or copy, the result is not 010.
 
-## The 010 visual contract
+## What makes the finished style recognizable
 
 - **One silhouette unit:** at least three source-specific cues preserve identity, contour, pose, action, function, and relation.
 - **Rounded and stocky:** modestly enlarge the head, principal contour, or memorable part; treat the key interaction as one unit rather than equal focal points.

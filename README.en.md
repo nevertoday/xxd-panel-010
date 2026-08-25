@@ -16,16 +16,7 @@
 
 </div>
 
-> ROUGH BLACK SILHOUETTE · WHITE FEATURE CUTOUT · DRY-MEDIA PAPER · SPARSE SETTING MARKS · PICTURE-BOOK TYPE
-
-XXD Panel 010 is an image-generation Skill for Codex and compatible agents. It preserves identity, contour, pose, action, and relation, then compresses the principal subject or interaction into one rounded, stocky, slightly naive rough-black silhouette unit. One source-specific white feature is cut suddenly from inside the mass so that very little information still reads instantly.
-
-The page contains only near-white paper and concentrated black crayon, charcoal, or dry rubbing. Short forceful repeated strokes preserve grain, broken marks, pressure grooves, rough edges, uneven density, and local white exposure. One ground-rub line or a few environmental signs are enough to hold pose, distance, warmth, humour, and loneliness.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090083230317945129) · 2026-08-19<br>
-> GPT2 x 剪影 x 黑白 x 粗蜡笔 x 美学提示词 x VOL.010
 
 <table>
   <tr>
@@ -38,9 +29,18 @@ The page contains only near-white paper and concentrated black crayon, charcoal,
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090083230317945129) · 2026-08-19<br>
+> GPT2 x 剪影 x 黑白 x 粗蜡笔 x 美学提示词 x VOL.010
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090083230317945129">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 010 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> ROUGH BLACK SILHOUETTE · WHITE FEATURE CUTOUT · DRY-MEDIA PAPER · SPARSE SETTING MARKS · PICTURE-BOOK TYPE
+
+XXD Panel 010 is an image-generation Skill for Codex and compatible agents. It preserves identity, contour, pose, action, and relation, then compresses the principal subject or interaction into one rounded, stocky, slightly naive rough-black silhouette unit. One source-specific white feature is cut suddenly from inside the mass so that very little information still reads instantly.
+
+The page contains only near-white paper and concentrated black crayon, charcoal, or dry rubbing. Short forceful repeated strokes preserve grain, broken marks, pressure grooves, rough edges, uneven density, and local white exposure. One ground-rub line or a few environmental signs are enough to hold pose, distance, warmth, humour, and loneliness.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 010 right for you?

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 010
+# 🦁 XXD Panel 010｜Black-and-White Storybook
 
 ### Compress a photograph into a rough black dry-media picture-book silhouette on clean white paper
 

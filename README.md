@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 010
+# 🦁 XXD Panel 010｜黑白旧童书
 
 ### 把照片压缩成近白纸面上的粗黑干媒介童书剪影
 

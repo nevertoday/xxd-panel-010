@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 010
+# 🦁 XXD Panel 010｜흑백 옛 그림책
 
 ### 사진을 깨끗한 흰 종이 위 거친 검정 건식 재료 그림책 실루엣으로
 

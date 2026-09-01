@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="XXD Panel 010 프로젝트 배너" width="1200">
-</p>
-
 <div align="center">
 
 # 🦁 XXD Panel 010｜흑백 옛 그림책
@@ -322,7 +318,6 @@ xxd-panel-010/
 ├── SKILL.md
 ├── README.md / README.en.md / README.ja.md / README.ko.md / README.ar.md
 ├── agents/openai.yaml
-├── assets/banner.svg + examples/ (향후 로컬 예시용)
 ├── scripts/compose_panel.py + configured_imagegen.py
 └── references/xxd-panel-010-prompt.zh-CN.md + xxd-panel-010-prompt.en.md + 010-source.md
 ```

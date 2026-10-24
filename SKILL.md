@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-010
-description: "Create XXD Panel 010 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-010 or requests the exact Panel 010 style."
+description: "XXD Panel 010｜Black-and-White Storybook: compresses a photo into a rough black dry-media picture-book silhouette on near-pure white paper — rounded, chunky, slightly naive shapes built from short, forceful strokes of black crayon or charcoal with paper grain, broken strokes, ragged edges and specks of white showing through, the head or most memorable part gently enlarged, white feature areas cut into the black for the face, eyes, a window or an opening, a few dots and dashes for expression, one rough ground line and very few marks for setting, no colour and no grey gradients, plus one short title with a number or a tiny quiet line. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. The design is black and white only. Use when the user invokes xxd-panel-010 or asks for black crayon silhouettes, black-and-white picture-book art or charcoal storybook illustration from a photo."
 ---
 
 # XXD Panel 010

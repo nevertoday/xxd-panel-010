@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 010｜Black-and-White Storybook: compresses a photo into a rough black dry-media picture-book silhouette on near-pure white paper — rounded, chunky, slightly naive shapes built from short, forceful strokes of black crayon or charcoal with paper grain, broken strokes, ragged edges and specks of white showing through, the head or most memorable part gently enlarged, white feature areas cut into the black for the face, eyes, a window or an opening, a few dots and dashes for expression, one rough ground line and very few marks for setting, no colour and no grey gradients, plus one short title with a number or a tiny quiet line. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. The design is black and white only. Use when the user invokes xxd-panel-010 or asks for black crayon silhouettes, black-and-white picture-book art or charcoal storybook illustration from a photo.",
+  "short_description": "黑白旧童书：把照片压成近白纸面上粗黑蜡笔涂出的童书剪影",
+  "zh-CN": {
+    "name": "黑白旧童书",
+    "tagline": "把照片压成近白纸面上用粗黑蜡笔涂出来的童书剪影，只有黑和白。",
+    "look": "主体被概括成圆润、敦厚、略带稚拙的黑色形体，头部或最有记忆点的局部会被适度放大；黑色由短促有力的蜡笔或炭笔反复涂出，留着纸纹、断笔、毛边和局部露白，轮廓有点摇晃。最关键的地方用黑色里突然切出的白色区域来认，比如脸、眼睛周围、窗洞或器皿开口，再用几个黑点和短线完成表情。四周是大片干净留白，只用一条粗糙地面线或几笔记号提示环境，没有彩色，也没有灰色渐变。文字是一个短标题加编号或一句极短的小文案，可以是印刷小字，也可以是笨拙的蜡笔字。",
+    "traits": [
+      "粗黑剪影",
+      "白色特征区",
+      "干媒介",
+      "童书",
+      "极少环境"
+    ],
+    "good": [
+      "轮廓有个性的动物或人：一只猫头鹰、一只兔子、戴帽子的小孩",
+      "形状简单的物件或建筑：一把茶壶、一栋小房子、一辆小汽车",
+      "两个主体之间有互动的瞬间：狗和主人、两只鸟挨在一起"
+    ],
+    "poor": [
+      "颜色本身很重要的照片：花海、彩色衣服、落日",
+      "需要认清五官或精确结构的图：证件照、产品图",
+      "想要光滑数字线条、精密线稿或复杂场景的需求"
+    ]
+  },
+  "en": {
+    "name": "Black-and-White Storybook",
+    "tagline": "Compresses a photo into a rough black-crayon picture-book silhouette on near-white paper, in black and white only.",
+    "look": "The subject is reduced to rounded, chunky, slightly naive black shapes, with the head or most memorable part gently enlarged; the black is built from short, forceful strokes of crayon or charcoal, leaving paper grain, broken strokes, ragged edges and specks of white, with a slightly wobbly outline. The key features are read through white areas cut sharply into the black, such as a face, the area around the eyes, a window or the mouth of a jar, finished with a few black dots and dashes. Around it is wide clean white space, with only a rough ground line or a few marks for setting, no colour and no grey gradients. Text is one short title with a number or a tiny quiet line, in small print or clumsy crayon lettering.",
+    "traits": [
+      "Bold black silhouette",
+      "White feature cut-outs",
+      "Dry media",
+      "Picture book",
+      "Minimal setting"
+    ],
+    "good": [
+      "Animals or people with a characterful outline: an owl, a rabbit, a child in a hat",
+      "Objects or buildings with a simple shape: a teapot, a small house, a little car",
+      "Moments of interaction between two subjects: a dog and its owner, two birds side by side"
+    ],
+    "poor": [
+      "Photos where colour is the point: flower fields, colourful clothes, a sunset",
+      "Images that need readable faces or exact structure: ID photos, product shots",
+      "Requests for smooth digital lines, precise line art or complex scenes"
+    ]
+  },
+  "ja": {
+    "name": "モノクロ古書絵本",
+    "tagline": "写真を、白に近い紙の上に太い黒クレヨンで塗った絵本のシルエットにします。色は黒と白だけです。",
+    "look": "主役は丸くてずんぐりした、少し素朴な黒い形にまとめ、頭やいちばん印象に残る部分をほどよく大きくします。黒は短く力強いクレヨンや木炭のストロークを重ねて塗り、紙の目、途切れた筆跡、毛羽立った縁、ところどころの白抜けを残し、輪郭は少し揺れます。いちばん大事な部分は、黒の中にすっと切り抜いた白い部分で見分けます。顔、目のまわり、窓、器の口などで、そこに黒い点や短い線を少し足して表情をつけます。まわりは広くきれいな余白で、ざらついた地面の線一本や数個の印で環境を示すだけ、色もグレーのグラデーションもありません。文字は短いタイトルに番号かごく短い一言を添え、小さな活字でも、ぎこちないクレヨン文字でもかまいません。",
+    "traits": [
+      "太い黒のシルエット",
+      "白抜きの特徴",
+      "乾いた画材",
+      "絵本",
+      "最小限の環境"
+    ],
+    "good": [
+      "輪郭に個性のある動物や人：フクロウ、ウサギ、帽子をかぶった子ども",
+      "形のシンプルなモノや建物：ティーポット、小さな家、小さな車",
+      "二つの主役がかかわる瞬間：犬と飼い主、寄り添う二羽の鳥"
+    ],
+    "poor": [
+      "色そのものが大事な写真：花畑、カラフルな服、夕焼け",
+      "顔立ちや正確な構造がわからないと困る画像：証明写真、商品写真",
+      "なめらかなデジタル線、精密な線画、複雑な場面を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "흑백 옛 그림책",
+    "tagline": "사진을 흰 종이 위에 굵은 검은 크레용으로 칠한 그림책 실루엣으로 바꿉니다. 색은 검정과 흰색뿐입니다.",
+    "look": "주인공은 둥글고 묵직하며 조금 서툰 검은 형태로 줄이고, 머리나 가장 기억에 남는 부분은 적당히 키웁니다. 검정은 짧고 힘 있는 크레용이나 목탄 획을 거듭 칠해 만들며, 종이 결, 끊긴 획, 거친 가장자리, 군데군데 비치는 흰 점을 남기고 윤곽은 조금 흔들립니다. 가장 중요한 부분은 검정 속에 갑자기 오려 낸 흰 영역으로 알아봅니다. 얼굴, 눈 주위, 창문, 그릇 입구 같은 곳이며, 검은 점과 짧은 선 몇 개로 표정을 마무리합니다. 주변은 넓고 깨끗한 여백이고, 거친 땅 선 하나나 기호 몇 개로만 환경을 알리며, 색도 회색 그라데이션도 없습니다. 글자는 짧은 제목 하나에 번호나 아주 짧은 문장을 곁들이며, 작은 인쇄체나 서툰 크레용 글씨도 좋습니다.",
+    "traits": [
+      "굵은 검은 실루엣",
+      "흰색 특징 영역",
+      "건식 재료",
+      "그림책",
+      "최소한의 환경"
+    ],
+    "good": [
+      "윤곽에 개성이 있는 동물이나 사람: 부엉이, 토끼, 모자 쓴 아이",
+      "형태가 단순한 물건이나 건물: 찻주전자, 작은 집, 작은 자동차",
+      "두 주인공이 교감하는 순간: 강아지와 주인, 나란히 앉은 새 두 마리"
+    ],
+    "poor": [
+      "색 자체가 중요한 사진: 꽃밭, 화려한 옷, 노을",
+      "이목구비나 정확한 구조를 알아봐야 하는 이미지: 증명사진, 제품 사진",
+      "매끈한 디지털 선, 정밀한 선화, 복잡한 장면을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كتاب الأطفال القديم بالأبيض والأسود",
+    "tagline": "يختصر الصورة في ظلّ أسود خشن مرسوم بقلم شمع على ورق شبه أبيض، كصفحة من كتاب أطفال، بالأسود والأبيض فقط.",
+    "look": "يُختزل العنصر في أشكال سوداء مستديرة ممتلئة فيها شيء من العفوية، مع تكبير خفيف للرأس أو لأكثر الأجزاء رسوخاً في الذاكرة. يُبنى السواد بضربات قصيرة قوية من قلم الشمع أو الفحم، فتبقى حبيبات الورق والضربات المنقطعة والحواف الخشنة وبقع بيضاء متفرقة، والحدود مهتزة قليلاً. تُقرأ أهم الملامح من مناطق بيضاء مقطوعة فجأة داخل السواد، كالوجه أو ما حول العينين أو نافذة أو فوهة إناء، ثم تكتمل بنقاط سوداء وشرطات قليلة. حوله فراغ أبيض نظيف واسع، ولا يُلمَّح إلى المكان إلا بخط أرض خشن أو علامات قليلة، بلا ألوان ولا تدرجات رمادية. النص عنوان قصير مع رقم أو جملة صغيرة هادئة، بحروف طباعية صغيرة أو بكتابة شمعية خرقاء.",
+    "traits": [
+      "ظل أسود عريض",
+      "مناطق ملامح بيضاء",
+      "وسائط جافة",
+      "كتب الأطفال",
+      "أقل قدر من المكان"
+    ],
+    "good": [
+      "حيوانات أو أشخاص بحدود مميزة: بومة، أرنب، طفل يعتمر قبعة",
+      "أشياء أو مبانٍ بسيطة الشكل: إبريق شاي، بيت صغير، سيارة صغيرة",
+      "لحظات تفاعل بين عنصرين: كلب وصاحبه، طائران متجاوران"
+    ],
+    "poor": [
+      "صور يكون اللون فيها هو الأساس: حقول الزهور، الملابس الملوّنة، الغروب",
+      "صور تحتاج إلى ملامح وجه واضحة أو بنية دقيقة: صور الهوية، صور المنتجات",
+      "طلب خطوط رقمية ملساء أو رسم خطي دقيق أو مشاهد معقدة"
+    ]
+  }
+}
